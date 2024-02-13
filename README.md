@@ -1,2 +1,1 @@
-# oop-python
-Repositório com todas os códigos das aulas no youtube
+# Repositório com todas os códigos das aulas no youtube
